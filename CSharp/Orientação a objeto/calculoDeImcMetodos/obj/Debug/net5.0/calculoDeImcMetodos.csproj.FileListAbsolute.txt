@@ -1,0 +1,16 @@
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\calculoDeImcMetodos\bin\Debug\net5.0\calculoDeImcMetodos.exe
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\calculoDeImcMetodos\bin\Debug\net5.0\calculoDeImcMetodos.deps.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\calculoDeImcMetodos\bin\Debug\net5.0\calculoDeImcMetodos.runtimeconfig.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\calculoDeImcMetodos\bin\Debug\net5.0\calculoDeImcMetodos.runtimeconfig.dev.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\calculoDeImcMetodos\bin\Debug\net5.0\calculoDeImcMetodos.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\calculoDeImcMetodos\bin\Debug\net5.0\calculoDeImcMetodos.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\calculoDeImcMetodos\obj\Debug\net5.0\calculoDeImcMetodos.csproj.AssemblyReference.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\calculoDeImcMetodos\obj\Debug\net5.0\calculoDeImcMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\calculoDeImcMetodos\obj\Debug\net5.0\calculoDeImcMetodos.AssemblyInfoInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\calculoDeImcMetodos\obj\Debug\net5.0\calculoDeImcMetodos.AssemblyInfo.cs
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\calculoDeImcMetodos\obj\Debug\net5.0\calculoDeImcMetodos.csproj.CoreCompileInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\calculoDeImcMetodos\obj\Debug\net5.0\calculoDeImcMetodos.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\calculoDeImcMetodos\obj\Debug\net5.0\refint\calculoDeImcMetodos.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\calculoDeImcMetodos\obj\Debug\net5.0\calculoDeImcMetodos.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\calculoDeImcMetodos\obj\Debug\net5.0\calculoDeImcMetodos.genruntimeconfig.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\calculoDeImcMetodos\obj\Debug\net5.0\ref\calculoDeImcMetodos.dll

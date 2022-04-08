@@ -1,0 +1,16 @@
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\Orientação a objeto\bin\Debug\net5.0\Orientação a objeto.exe
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\Orientação a objeto\bin\Debug\net5.0\Orientação a objeto.deps.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\Orientação a objeto\bin\Debug\net5.0\Orientação a objeto.runtimeconfig.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\Orientação a objeto\bin\Debug\net5.0\Orientação a objeto.runtimeconfig.dev.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\Orientação a objeto\bin\Debug\net5.0\Orientação a objeto.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\Orientação a objeto\bin\Debug\net5.0\Orientação a objeto.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\Orientação a objeto\obj\Debug\net5.0\Orientação a objeto.csproj.AssemblyReference.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\Orientação a objeto\obj\Debug\net5.0\Orientação a objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\Orientação a objeto\obj\Debug\net5.0\Orientação a objeto.AssemblyInfoInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\Orientação a objeto\obj\Debug\net5.0\Orientação a objeto.AssemblyInfo.cs
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\Orientação a objeto\obj\Debug\net5.0\Orientação a objeto.csproj.CoreCompileInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\Orientação a objeto\obj\Debug\net5.0\Orientação a objeto.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\Orientação a objeto\obj\Debug\net5.0\refint\Orientação a objeto.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\Orientação a objeto\obj\Debug\net5.0\Orientação a objeto.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\Orientação a objeto\obj\Debug\net5.0\Orientação a objeto.genruntimeconfig.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Orientação a objeto\Orientação a objeto\obj\Debug\net5.0\ref\Orientação a objeto.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GphJV0qe8ckawtviSHJrP1IPvY55YlXOXHIT8YSz7cvqRw/y6olj5scZ3LK5guodMWt75lHWSDfEQJR9Uy5shA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\C#\\Orientação a objeto\\calculoDeImcMetodos\\calculoDeImcMetodos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jvm18\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
