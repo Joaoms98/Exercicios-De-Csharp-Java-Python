@@ -1,0 +1,16 @@
+C:\Users\jvm18\Desktop\prograhmaisaoção\Exercicios_de_Csharp_e_java\CSharp\Orientação a objeto\3conceitos\bin\Debug\net5.0\3conceitos.exe
+C:\Users\jvm18\Desktop\prograhmaisaoção\Exercicios_de_Csharp_e_java\CSharp\Orientação a objeto\3conceitos\bin\Debug\net5.0\3conceitos.deps.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Exercicios_de_Csharp_e_java\CSharp\Orientação a objeto\3conceitos\bin\Debug\net5.0\3conceitos.runtimeconfig.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Exercicios_de_Csharp_e_java\CSharp\Orientação a objeto\3conceitos\bin\Debug\net5.0\3conceitos.runtimeconfig.dev.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Exercicios_de_Csharp_e_java\CSharp\Orientação a objeto\3conceitos\bin\Debug\net5.0\3conceitos.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Exercicios_de_Csharp_e_java\CSharp\Orientação a objeto\3conceitos\bin\Debug\net5.0\3conceitos.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\Exercicios_de_Csharp_e_java\CSharp\Orientação a objeto\3conceitos\obj\Debug\net5.0\3conceitos.csproj.AssemblyReference.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Exercicios_de_Csharp_e_java\CSharp\Orientação a objeto\3conceitos\obj\Debug\net5.0\3conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvm18\Desktop\prograhmaisaoção\Exercicios_de_Csharp_e_java\CSharp\Orientação a objeto\3conceitos\obj\Debug\net5.0\3conceitos.AssemblyInfoInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Exercicios_de_Csharp_e_java\CSharp\Orientação a objeto\3conceitos\obj\Debug\net5.0\3conceitos.AssemblyInfo.cs
+C:\Users\jvm18\Desktop\prograhmaisaoção\Exercicios_de_Csharp_e_java\CSharp\Orientação a objeto\3conceitos\obj\Debug\net5.0\3conceitos.csproj.CoreCompileInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Exercicios_de_Csharp_e_java\CSharp\Orientação a objeto\3conceitos\obj\Debug\net5.0\3conceitos.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Exercicios_de_Csharp_e_java\CSharp\Orientação a objeto\3conceitos\obj\Debug\net5.0\refint\3conceitos.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Exercicios_de_Csharp_e_java\CSharp\Orientação a objeto\3conceitos\obj\Debug\net5.0\3conceitos.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\Exercicios_de_Csharp_e_java\CSharp\Orientação a objeto\3conceitos\obj\Debug\net5.0\3conceitos.genruntimeconfig.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Exercicios_de_Csharp_e_java\CSharp\Orientação a objeto\3conceitos\obj\Debug\net5.0\ref\3conceitos.dll

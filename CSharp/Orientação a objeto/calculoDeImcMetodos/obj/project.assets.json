@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\C#\\Orientação a objeto\\calculoDeImcMetodos\\calculoDeImcMetodos.csproj",
+      "projectUniqueName": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Exercicios_de_Csharp_e_java\\CSharp\\Orientação a objeto\\calculoDeImcMetodos\\calculoDeImcMetodos.csproj",
       "projectName": "calculoDeImcMetodos",
-      "projectPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\C#\\Orientação a objeto\\calculoDeImcMetodos\\calculoDeImcMetodos.csproj",
+      "projectPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Exercicios_de_Csharp_e_java\\CSharp\\Orientação a objeto\\calculoDeImcMetodos\\calculoDeImcMetodos.csproj",
       "packagesPath": "C:\\Users\\jvm18\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\C#\\Orientação a objeto\\calculoDeImcMetodos\\obj\\",
+      "outputPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Exercicios_de_Csharp_e_java\\CSharp\\Orientação a objeto\\calculoDeImcMetodos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jvm18\\AppData\\Roaming\\NuGet\\NuGet.Config",
