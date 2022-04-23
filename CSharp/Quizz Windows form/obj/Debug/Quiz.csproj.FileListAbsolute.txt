@@ -1,0 +1,14 @@
+C:\Users\jvm18\Desktop\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\jvm18\Desktop\Quiz\bin\Debug\Quiz.exe
+C:\Users\jvm18\Desktop\Quiz\bin\Debug\Quiz.pdb
+C:\Users\jvm18\Desktop\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+C:\Users\jvm18\Desktop\Quiz\obj\Debug\Quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\jvm18\Desktop\Quiz\obj\Debug\Quiz.Form1.resources
+C:\Users\jvm18\Desktop\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\jvm18\Desktop\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+C:\Users\jvm18\Desktop\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\jvm18\Desktop\Quiz\obj\Debug\Quiz.exe
+C:\Users\jvm18\Desktop\Quiz\obj\Debug\Quiz.pdb
+C:\Users\jvm18\Desktop\Quiz\obj\Debug\Quiz.FrmP1.resources
+C:\Users\jvm18\Desktop\Quiz\obj\Debug\Quiz.frmFinal.resources
+C:\Users\jvm18\Desktop\Quiz\obj\Debug\Quiz.frmP2.resources
