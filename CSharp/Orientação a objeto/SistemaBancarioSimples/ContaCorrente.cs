@@ -10,12 +10,12 @@ namespace Conta
     {
         public double Saldo;
         public string? Status;
-        public string Transacao(double saque)
+        public string Saque(double value)
         {
-            if (Saldo < saque)
+            if (Saldo < value)
                 return Status= "Saldo insuficiente";
             else
-                Saldo = Saldo-saque;
+                Saldo = Saldo-value;
                 return Status = "Operação Realizada com sucesso!";
         }
     }
