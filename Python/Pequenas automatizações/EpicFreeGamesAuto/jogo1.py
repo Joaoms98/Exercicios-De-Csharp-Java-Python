@@ -9,16 +9,34 @@ pyautogui.write("epic")
 
 time.sleep(2)
 
-
 pyautogui.press("enter")
 
-#rolagem da tela e click no jogo
 time.sleep(30)
 
+#rolagem da tela e click no jogo1
 pyautogui.scroll(-1250)
 pyautogui.click(x=427, y=621)
 
 time.sleep(5)
 
 #finalização da compra
-pyautogui.click(x=1041, y=625)
+pyautogui.click(x=1070, y=672)
+time.sleep(5)
+pyautogui.click(x=1070, y=672)
+
+
+#rolagem da tela e click no jogo2
+time.sleep(10)
+
+pyautogui.click(x=228, y=223) #clique no store
+
+time.sleep(5)
+
+pyautogui.click(x=794, y=459)
+
+time.sleep(5)
+
+#finalização da compra
+pyautogui.click(x=1070, y=672)
+time.sleep(5)
+pyautogui.click(x=1070, y=672)
