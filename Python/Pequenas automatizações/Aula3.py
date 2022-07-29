@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import Keys
 
 
 #open navigator, before . insert navegator name
-navegador = webdriver.Chrome()
+navegador = webdriver.Edge()
 
 
 #Search url site
@@ -15,15 +15,15 @@ navegador.get("link with htpps")
 
 
 #parameters (type search "xpath", xpath code find this code with inspections elements and copy, command from insert new text or next else
-navegador.find_element('xpath', '/html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div/div[2]/input'.send_keys("cotacao dolar")
+navegador.find_element('xpath', '/html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div/div[2]/input'.send_keys("cotacao dolar"))
 
 
 #enter for consult 
-navegador.find_element('xpath', '/html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div/div[2]/input'.send_keys(keys.ENTER)
+navegador.find_element('xpath', '/html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div/div[2]/input'.send_keys(Keys.ENTER))
 
 
 #get atribute
-cotacao_dolar = navegador.find_element('xpath', '//*[@id="knowledge-currency__updatable-data-column"]/div[1]/div[2]/span[1]'.get_atribute('data-value')
+cotacao_dolar = navegador.find_element('xpath', '//*[@id="knowledge-currency__updatable-data-column"]/div[1]/div[2]/span[1]'.get_atribute('data-value'))
 
 
 #replace 
