@@ -20,8 +20,8 @@ pyautogui.click(x=427, y=621)
 time.sleep(5)
 
 #finalização da compra
-pyautogui.click(x=1070, y=672)
-time.sleep(5)
+pyautogui.click(x=1043, y=607)
+time.sleep(10)
 pyautogui.click(x=1070, y=672)
 
 
