@@ -1,9 +1,8 @@
-﻿
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
 
 namespace consoleapp1
 {
-    public class Class1
+    public static class Bob
     {
         public static string Response(string statement)
         {
@@ -11,15 +10,24 @@ namespace consoleapp1
             if (statement == "")
             {
                 return "Fine. Be that way!";
-            }else if (Regex.IsMatch(statement,"[A-Z]") &&
-                !Regex.IsMatch(statement,"[a-z]"))
-            {
-               return "Whoa, chill out!";
-            }else if(statement.Substring (statement.Length - 1) == "?")
-            {
-                return "Sure .";
             }
-            return "Whatever .";
+            else if (Regex.IsMatch(statement, "[A-Z]") &&
+            !Regex.IsMatch(statement, "[a-z]"))
+            {
+                if (statement.Substring(statement.Length - 1) == "?")
+                {
+                    return "Calm down, I know what I'm doing!";
+                }
+                else
+                {
+                    return "Whoa, chill out!";
+                }
+            }
+            else if (statement.Substring(statement.Length - 1) == "?")
+            {
+                return "Sure.";
+            }
+            return "Whatever.";
         }
     }
 }
