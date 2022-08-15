@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace APIMet.Controllers
 {
@@ -43,6 +44,14 @@ namespace APIMet.Controllers
             {
                 return NotFound();
             }
+        }
+
+        [HttpPut]
+        public IActionResult CalcularSaldo(GameModel game)
+        {
+           var _game = SeachGameforId(game.Id);
+           return Ok(_game);
+
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mzBp//otJIowqpJ4MDcP/NPsCgHKmF3nR2mpne8/NYgLrSzxSL3e8YJ0lhNKBlsp/f5KXkXVK+F3sy+feYGTsQ==",
+  "dgSpecHash": "aBZ6ZyfGJZmZsciv8GZPw2NqUVjF2t20nRnbgo7GHLpEfnEQq53TVCsniYei7wNaKGi6vEyK2Xmh5SPNBT3pVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jvm18\\Desktop\\WorkSpace\\CQRS\\APIMet\\APIGames.csproj",
+  "projectFilePath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Exercicios-De-Csharp-Java-Python\\CSharp\\CQRSeCleanCode\\APIGames\\APIMet\\APIGames.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jvm18\\.nuget\\packages\\microsoft.aspnet.webapi.client\\4.0.20710\\microsoft.aspnet.webapi.client.4.0.20710.nupkg.sha512",
     "C:\\Users\\jvm18\\.nuget\\packages\\microsoft.aspnet.webapi.core\\4.0.20710\\microsoft.aspnet.webapi.core.4.0.20710.nupkg.sha512",

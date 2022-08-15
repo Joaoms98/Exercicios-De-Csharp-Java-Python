@@ -33,14 +33,13 @@ namespace APIGames
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "APIGames", Version = "v1" });
             });
         }
-
       
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
             {
                 app.UseSwagger();
-                app.UseSwaggerUI(); ;
+                app.UseSwaggerUI();
             }
 
             app.UseHttpsRedirection();

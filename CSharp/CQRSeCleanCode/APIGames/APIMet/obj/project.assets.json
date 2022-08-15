@@ -751,11 +751,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jvm18\\Desktop\\WorkSpace\\CQRS\\APIMet\\APIGames.csproj",
+      "projectUniqueName": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Exercicios-De-Csharp-Java-Python\\CSharp\\CQRSeCleanCode\\APIGames\\APIMet\\APIGames.csproj",
       "projectName": "APIGames",
-      "projectPath": "C:\\Users\\jvm18\\Desktop\\WorkSpace\\CQRS\\APIMet\\APIGames.csproj",
+      "projectPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Exercicios-De-Csharp-Java-Python\\CSharp\\CQRSeCleanCode\\APIGames\\APIMet\\APIGames.csproj",
       "packagesPath": "C:\\Users\\jvm18\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jvm18\\Desktop\\WorkSpace\\CQRS\\APIMet\\obj\\",
+      "outputPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Exercicios-De-Csharp-Java-Python\\CSharp\\CQRSeCleanCode\\APIGames\\APIMet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jvm18\\AppData\\Roaming\\NuGet\\NuGet.Config",
